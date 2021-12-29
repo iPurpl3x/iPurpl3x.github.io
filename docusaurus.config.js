@@ -93,6 +93,11 @@ const config = {
 						href: '/img/logo.png',
 					},
 					{
+						tagName: 'link',
+						rel: 'manifest',
+						href: '/manifest.json',
+					},
+					{
 						tagName: 'meta',
 						name: 'theme-color',
 						content: '#d77526',
