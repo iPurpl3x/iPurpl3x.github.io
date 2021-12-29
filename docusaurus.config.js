@@ -102,6 +102,11 @@ const config = {
 						name: 'apple-mobile-web-app-capable',
 						content: 'yes',
 					},
+					{
+						tagName: 'link',
+						rel: 'apple-touch-icon',
+						href: '/img/logo.png',
+					},
 				],
 			},
 		],
