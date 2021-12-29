@@ -1,0 +1,37 @@
+{
+  "short_name": "Kombuchify",
+  "name": "Kombuchify: How to make Kombucha",
+  "icons": [
+    {
+      "src": "/images/logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#d77526",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#d77526",
+  "shortcuts": [
+    {
+      "name": "How to make Kombucha",
+      "short_name": "How to",
+      "description": "How to make Kombucha guide",
+      "url": "/"
+    },
+    {
+      "name": "Equipment",
+      "short_name": "Equipment",
+      "description": "Kombucha equipment guide",
+      "url": "/equipment"
+    },
+    {
+      "name": "2nd Fermentation",
+      "short_name": "2nd Fermentation",
+      "description": "2nd Fermentation guide",
+      "url": "/2nd-fermentation"
+    }
+  ],
+  "description": "How to make Kombucha guide"
+}
