@@ -95,7 +95,7 @@ const config = {
 					{
 						tagName: 'meta',
 						name: 'theme-color',
-						content: 'rgb(215, 117, 38)',
+						content: '#d77526',
 					},
 					{
 						tagName: 'meta',
