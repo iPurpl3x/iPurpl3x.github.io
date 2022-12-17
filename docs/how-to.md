@@ -184,7 +184,7 @@ The fermentation process is the most simple one, it just requires a little bit o
    [this page](/equipment#cover) for detailed advice.
 
     - To cover the container use a cloth, coffee filter or anything that prevents dust or insects to
-      enter into the container while it is fermenting. The insets are attracted by CO2 produced by
+      enter into the container while it is fermenting. The insects are attracted by CO2 produced by
       the fermentation. The risk of bacteria contamination is low because of the acidity of the
       solution. Covering the container will also reduce the (relatively low) risk of getting mold
       inside.
@@ -202,7 +202,7 @@ The fermentation process is the most simple one, it just requires a little bit o
    not look nice. So, unless it is really necessary, just leave it alone for the 7 days to come.
 
 4. Sometimes the fermentation produces a lot of gas. When that happens, the SCOBY might get lifted
-   into the air by a big bubble of gas. It is god to pop out that bubble to let the SCOBY touch the
+   into the air by a big bubble of gas. It is good to pop out that bubble to let the SCOBY touch the
    liquid. So if necessary release that bubble once or twice a day. Use a clean spoon to push down
    the SCOBY into the liquid.
 
