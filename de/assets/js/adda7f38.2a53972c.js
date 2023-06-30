@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkombuchify=self.webpackChunkkombuchify||[]).push([[940],{3769:function(u){u.exports=JSON.parse('{"plugin":{"name":"docusaurus-plugin-content-docs","id":"default"}}')}}]);
