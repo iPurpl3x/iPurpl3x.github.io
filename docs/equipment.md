@@ -24,7 +24,8 @@ needs more fermentation.
 Our choice:
 [Bormioli Rocco - 3L Fido Glass Jar](https://www.bormiolirocco.com/en/product/264/jar-101-1-2-oz-fido)
 
-<details><summary>🇨🇭 Advice for people living in Switzerland</summary>
+<details>
+<summary>🇨🇭 Advice for people living in Switzerland</summary>
 
 The **Bormioli Rocco - 3L Fido Glass Jar** can easily be found in (big) MIGROS stores.
 [Link](https://produkte.migros.ch/bormioli-rocco-einmachglas-fido-703723200000).
@@ -56,7 +57,8 @@ the SCOBY stays safe and so that the person can easily start his brewing.
 
 :::
 
-<details><summary>🇨🇭 Online chat group for sharing SCOBYs in Switzerland</summary>
+<details>
+<summary>🇨🇭 Online chat group for sharing SCOBYs in Switzerland</summary>
 
 Join [this Telegram group](https://t.me/scobysch) chat to find and share free SCOBYs locally!
 
@@ -78,7 +80,8 @@ do the 2nd Fermentation)
 Our choice:
 [Bormioli Rocco - Officina 1825 - 1L Bottle with hermetic lid](https://www.bormiolirocco.com/en/product/566/bottle-with-hermetic-lid-37-1-4-oz-officina-1825)
 
-<details><summary>🇨🇭 Advice for people living in Switzerland</summary>
+<details>
+<summary>🇨🇭 Advice for people living in Switzerland</summary>
 
 The **Bormioli Rocco - Officina 1825** can easily be found in (big) MIGROS stores.
 [Link](https://produkte.migros.ch/bormioli-rocco-flasche-officina).
