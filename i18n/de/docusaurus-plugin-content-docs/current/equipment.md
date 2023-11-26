@@ -24,7 +24,8 @@ festzustellen, ob er fertig ist oder noch weiter gären muss.
 Unsere Wahl:
 [Bormioli Rocco - 3L Fido Einmachglas](https://www.bormiolirocco.com/en/product/264/jar-101-1-2-oz-fido)
 
-<details><summary>🇨🇭 Ratschläge für Leute, die in der Schweiz wohnen</summary>
+<details>
+<summary>🇨🇭 Ratschläge für Leute, die in der Schweiz wohnen</summary>
 
 Das **Bormioli Rocco - 3L Fido Einmachglas** kann leicht in (grossen) MIGROS-Filialen gekauft
 werden. [Link](https://produkte.migros.ch/bormioli-rocco-einmachglas-fido-703723200000).
@@ -58,7 +59,8 @@ mitzugeben, damit der SCOBY sicher bleibt und die Person leicht mit dem Brauen b
 
 :::
 
-<details><summary>🇨🇭 Online-Chatgruppe zum Austausch von SCOBYs in der Schweiz</summary>
+<details>
+<summary>🇨🇭 Online-Chatgruppe zum Austausch von SCOBYs in der Schweiz</summary>
 
 Treten Sie [dieser Telegram-Gruppe](https://t.me/scobysch) bei, um kostenlose SCOBYs zu finden und
 zu teilen!
@@ -81,7 +83,8 @@ die zweite Gärung durchzuführen)
 Unsere Wahl:
 [Bormioli Rocco - Officina 1825 - 1L Flasche mit hermetischem Deckel](https://www.bormiolirocco.com/en/product/566/bottle-with-hermetic-lid-37-1-4-oz-officina-1825)
 
-<details><summary>🇨🇭 Ratschläge für Leute, die in der Schweiz wohnen</summary>
+<details>
+<summary>🇨🇭 Ratschläge für Leute, die in der Schweiz wohnen</summary>
 
 Die **Bormioli Rocco - Officina 1825** Flasche kann man leicht in (grossen) MIGROS-Filialen finden.
 [Link](https://produkte.migros.ch/bormioli-rocco-flasche-officina).

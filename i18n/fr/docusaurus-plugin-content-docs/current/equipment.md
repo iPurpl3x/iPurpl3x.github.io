@@ -25,7 +25,8 @@ savoir s'il est prêt ou s'il a besoin de plus de fermentation.
 Notre choix :
 [Bormioli Rocco - Pot en verre Fido 3L](https://www.bormiolirocco.com/en/product/264/jar-101-1-2-oz-fido)
 
-<details><summary>🇨🇭 Conseils pour les personnes vivant en Suisse</summary>
+<details>
+<summary>🇨🇭 Conseils pour les personnes vivant en Suisse</summary>
 
 Le **Bormioli Rocco - Pot en verre Fido 3L** peut être facilement trouvé dans les (grands) magasins
 MIGROS. [Lien](https://produkte.migros.ch/bormioli-rocco-einmachglas-fido-703723200000).
@@ -61,7 +62,8 @@ brassage.
 
 :::
 
-<details><summary>🇨🇭 Groupe de discussion en ligne pour le partage de SCOBYs en Suisse</summary>
+<details>
+<summary>🇨🇭 Groupe de discussion en ligne pour le partage de SCOBYs en Suisse</summary>
 
 Rejoignez [ce groupe Telegram](https://t.me/scobysch) pour trouver et partager des SCOBYs gratuits
 localement !
@@ -84,7 +86,8 @@ prévoyez de faire la 2ème fermentation)
 Notre choix :
 [Bormioli Rocco - Officina 1825 - Bouteille de 1L avec couvercle hermétique](https://www.bormiolirocco.com/en/product/566/bottle-with-hermetic-lid-37-1-4-oz-officina-1825)
 
-<details><summary>🇨🇭 Conseils pour les personnes vivant en Suisse</summary>
+<details>
+<summary>🇨🇭 Conseils pour les personnes vivant en Suisse</summary>
 
 La bouteille **Bormioli Rocco - Officina 1825** peut facilement être trouvé dans les (grands)
 magasins MIGROS. [Lien](https://produkte.migros.ch/bormioli-rocco-flasche-officina).
